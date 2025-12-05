@@ -6,9 +6,13 @@
 
 ---
 
-### Technical Skills  
-- **Programming Languages:** Python, HTML, CSS, Javascript  
-- **Tools:** Homer (Renewable Energy Simulation), AutoCAD, Gazebo  
+### Technical Skills
+
+- **Programming Languages:** Python, HTML, CSS, JavaScript  
+- **Tools & Frameworks:** Homer (Renewable Energy Simulation), AutoCAD, Gazebo, Orange (Software), OpenVINO, Microsoft Azure  
+- **Web & Design Skills:** HTML5, CSS3, Responsive Web Design  
+- **Platforms & OS:** Linux  
+  
 
 ---
 
@@ -54,7 +58,7 @@ _Techiman, Bono Region | October 2021 – September 2022_
 ## Volunteer Activities  
 
 ### UNIFY  
-_April 2024 – Present_  
+_April 2024 – August 2025_  
 - Optimized workflows for large language models.  
 - Participated in webinars and research paper analysis on cutting-edge AI topics.  
 
