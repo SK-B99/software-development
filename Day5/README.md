@@ -1,69 +1,106 @@
-# ✅ 5-Day Git & GitHub Mastery Course (Completed)
+# SAMUEL-BAFFOE-KWARTENG
 
-[![Course Status](https://img.shields.io/badge/Status-Completed-success.svg)](README.md)
-[![Course Duration](https://img.shields.io/badge/Duration-5%20Days-green.svg)](README.md)
-[![Final Deliverable](https://img.shields.io/badge/Deliverable-README.md-blue.svg)](README.md)
+**AI & ML Engineer | Software Engineer | Researcher | Energy Engineer**
 
----
-
-## 🏆 Course Completion Overview
-
-This intensive **5-day hands-on course** covered everything from foundational Git commands to complex collaboration workflows on GitHub. The curriculum was designed to progressively build skills, culminating in a final project focused on professional project documentation.
-
-* **Outcome:** Proficient in local version control, branching, merging, conflict resolution, and collaborative development using GitHub.
-* **Final Project:** A well-structured and professionally documented project using Markdown.
+[Link to my research profile](http://orcid.org/0009-0006-4126-6798)
 
 ---
 
-## 🗓️ Course Curriculum Review
-
-The following outlines the tasks and challenges completed over the five days:
-
-### **DAY 1 – Git Basics & Local Version Control**
-
-| Activity | Status | Description |
-| :--- | :--- | :--- |
-| **Core Topics** | Completed | `git init`, `git status`, `git add`, `git commit`, `git log` |
-| **Lab Exercise** | Completed | Initialized a Git repository and made 3 meaningful commits. |
-| **Daily Challenge** | Completed | Successfully undid the last commit without losing the file changes (`git reset --soft HEAD~1`). |
-
-### **DAY 2 – Branching, Merging & Conflict Resolution**
-
-| Activity | Status | Description |
-| :--- | :--- | :--- |
-| **Core Topics** | Completed | `git branch`, `git checkout`/`git switch`, `git merge` |
-| **Lab Exercise** | Completed | Created a feature branch, edited a file, and merged the changes back into `main`. |
-| **Daily Challenge** | Completed | Resolved an intentional merge conflict successfully. |
-
-### **DAY 3 – GitHub Essentials (Remote Repositories)**
-
-| Activity | Status | Description |
-| :--- | :--- | :--- |
-| **Core Topics** | Completed | `git remote add`, `git push`, `git pull`, cloning, forking |
-| **Lab Exercise** | Completed | Created a GitHub repository and pushed local commits to the remote. |
-| **Daily Challenge** | Completed | Cloned a partner’s GitHub repository and ran their project locally. |
-
-### **DAY 4 – Collaboration Workflows (Pull Requests & Issues)**
-
-| Activity | Status | Description |
-| :--- | :--- | :--- |
-| **Core Topics** | Completed | Pull Requests (PRs), Code Review, GitHub Issues, Task Assignment |
-| **Lab Exercise** | Completed | Forked the training repo, made an enhancement, and submitted a formal Pull Request. |
-| **Daily Challenge** | Completed | Reviewed a colleague’s PR and requested necessary changes. |
-
-### **DAY 5 – Documentation & Final Project Setup (Submission)**
-
-| Activity | Status | Description |
-| :--- | :--- | :--- |
-| **Core Topics** | Completed | Markdown basics, project documentation standards, portfolio setup |
-| **Demo Activity** | **Submitted** | **Created a clean, professional, multi-sectioned `README.md` for a final project.** |
+### Technical Skills  
+- **Programming Languages:** Python, HTML, CSS, Javascript  
+- **Tools:** Homer (Renewable Energy Simulation), AutoCAD, Gazebo  
 
 ---
 
-## 📄 Final Deliverable: The Professional README
+## Education  
 
-The final task focused on creating high-quality, professional project documentation, which is crucial for open-source and professional software development.
+### MASTER’S PROGRAM COMPUTER ENGINEERING  
+**Specialization:** Applied Artificial Intelligence and Robotics  
+**National Research Tomsk State University**  
+[http://fit.tsu.ru/robotics](http://fit.tsu.ru/robotics)  
+_September 2022 – June 2024_  
 
-> **Deliverable:** The submission for Day 5 is the **professionally documented README.md** itself, demonstrating mastery of Markdown syntax and best practices for project structure (Overview, Features, Installation, Usage, etc.).
+### BACHELOR OF SCIENCE IN RENEWABLE ENERGY ENGINEERING  
+**University of Energy and Natural Resources**  
+[https://uenr.edu.gh](https://uenr.edu.gh)  
+_September 2017 – December 2021_  
 
 ---
+
+## Work Experience  
+
+### CodeRaccoon
+_November 15 – Present_
+  
+I am undergoing training in the Software Developers Department at Code Raccoon. I learn directly from mentors to strengthen my problem-solving and practical skills in software development, including writing code, fixing errors, managing project versions, and collaborating with team members on real projects.
+
+### INTEL In Partnership with Coral Reef Innovation Hub  
+**July 2025 – November 2025**  
+I delivered hands-on, project-based training in Artificial Intelligence and Robotics using Intel’s AI for Youth framework. My work focused on equipping learners with practical AI capabilities through the implementation of industry-grade Intel tools, including the Intel OpenVINO™ Toolkit for model optimization and edge deployment. I provided comprehensive instruction across key AI domains—Computer Vision, Natural Language Processing, and Statistical Data Analysis—guiding participants through data collection, model development, evaluation, conversion, and real-world deployment.
+
+### IE KRYLEPOVE E.V – Solar Energy Engineer  
+**January 2022 – November 2024 | Irkutsk, Russia**  
+I design solar inverter systems specifically for agricultural irrigation, enabling farmers to reduce their reliance on traditional energy sources and boost productivity. I also handle the comprehensive sizing and implementation of solar panel systems for household energy needs, covering every aspect of the project—from initial conceptualization and work planning to detailed design and execution. I develop APIs to monitor and track the efficiency of solar panels, ensuring optimal performance and reliability for both agricultural and residential applications.
+
+### FIELD ENGINEER – Volta River Authority (Loss Control Department)  
+_Techiman, Bono Region | October 2021 – September 2022_  
+- Supported the organization’s mission to deliver reliable and environmentally sustainable energy across Ghana and West Africa by applying technical expertise in power distribution and network optimization.  
+- Actively participated in preventive maintenance protocols, implementing strategic measures that resulted in an 85% reduction in unauthorized electrical connections and a substantial improvement in network efficiency in the Bono region.  
+- Collaborated with field engineers to conduct transformer installations, enhancing load distribution and voltage regulation within the local grid.  
+- Performed diagnostic assessments to identify system inefficiencies, contributing to the overall stability and resilience of the grid infrastructure, aligned with VRA’s standards for safe and efficient energy supply.
+
+---
+
+## Volunteer Activities  
+
+### UNIFY  
+_April 2024 – Present_  
+- Optimized workflows for large language models.  
+- Participated in webinars and research paper analysis on cutting-edge AI topics.  
+
+### ZECURA TU-UENR – Team Member  
+_September 2021 – January 2023_  
+- Designed zero-emission concepts for university campuses.  
+- Collaborated with city officials to enhance energy, water, and food systems.
+
+---
+
+## Projects  
+
+### DESIGN OF HYBRID SYSTEM (MINI HYDRO / SOLAR PV)  
+[Publication](https://drive.google.com/file/d/1G5AEj21FFzW8PeilqseuXR209UR3Lkgc/view?usp=sharing)  
+This project focused on designing a hybrid solar-hydro power plant to address the energy needs of the Alavanyo Abenehenase community in the Hohoe Municipality of Ghana's Volta Region. The integration of a solar power system with the existing Bui Power Authority micro-hydro plant, the study aimed to maximize energy capacity and provide a reliable and continuous power supply for the community.  
+The study collected site-specific data revealing a hydro potential of 769 kW and peak sun hours of 5.1 with an irradiance of 1791.1 kWh/m², demonstrating the feasibility of the hybrid system. The results showed that the hybrid system's maximum output could meet the Hohoe municipality's electrical load demand.
+
+### MACHINE LEARNING TO PREDICT PRODUCT DEMAND  
+[Publication](https://drive.google.com/file/d/1BtmNVFO6YwHLN08x6nmzq9Mld5Tc8Ze7/view?usp=sharing)  
+The subject of the research is to develop a web application interface based on the best model identified through the comparative study, for predicting product demand.  
+Purpose of work is to contribute to the enhancement of forecasting future trends over time and offers valuable guidance to data experts, analysts, and researchers on selecting the most suitable method for making accurate and reliable predictions in various situations.  
+The research provides the design framework of the web application interface, implementation of the models in Python, results comparison, model deployment, data handling procedures, and instructions on using the deployed model. The result is a machine learning-based web application interface for predicting product demand.
+
+---
+
+## Certifications  
+
+### AI AUGMENTED PROFESSIONAL DEVELOPMENT SKILLS IN THE DIGITAL AGE  
+**ALX Africa – Accra, Ghana**  
+[Publication](https://intranet.alxswe.com/certificates/mPnXxycYC7)
+
+---
+
+## Publications  
+
+1. Kwarteng, S., & Poguda Andreevich. (2024). Comparative Analysis of ARIMA, SARIMA and Prophet Model in Forecasting. *Research & Development*, 5(4), 110–120. [https://doi.org/10.11648/j.rd.20240504.13](https://doi.org/10.11648/j.rd.20240504.13)
+
+---
+
+## 🤳 Connect with Me  
+- **Email:** [samuelbaffoekwarteng@gmail.com](mailto:samuelbaffoekwarteng@gmail.com)  
+- **LinkedIn:** [Samuel Baffoe](https://www.linkedin.com/in/samuelbaffoekwarteng)
+
+---
+
+© 2024 Samuel Baffoe Kwarteng. All rights reserved.
+
+
+
