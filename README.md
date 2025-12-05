@@ -8,14 +8,14 @@
 
 ## 🏆 Course Completion Overview
 
-This intensive **5-day hands-on course** covered everything from foundational Git commands to complex collaboration workflows on GitHub. The curriculum was designed to progressively build skills, culminating in a final project focused on professional project documentation.
+This intensive **5-day hands-on Git** covered everything from foundational Git commands to complex collaboration workflows on GitHub.This was designed to progressively build skills, culminating in a final project focused on professional project documentation.
 
 * **Outcome:** Proficient in local version control, branching, merging, conflict resolution, and collaborative development using GitHub.
 * **Final Project:** A well-structured and professionally documented project using Markdown.
 
 ---
 
-## 🗓️ Course Curriculum Review
+## 🗓️ Week 2
 
 The following outlines the tasks and challenges completed over the five days:
 
@@ -59,11 +59,4 @@ The following outlines the tasks and challenges completed over the five days:
 | **Demo Activity** | **Submitted** | **Created a clean, professional, multi-sectioned `README.md` for a final project.** |
 
 ---
-
-## 📄 Final Deliverable: The Professional README
-
-The final task focused on creating high-quality, professional project documentation, which is crucial for open-source and professional software development.
-
-> **Deliverable:** The submission for Day 5 is the **professionally documented README.md** itself, demonstrating mastery of Markdown syntax and best practices for project structure (Overview, Features, Installation, Usage, etc.).
-
 ---
